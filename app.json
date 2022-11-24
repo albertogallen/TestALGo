@@ -1,0 +1,26 @@
+{
+  "id": "8c588cd6-533e-4cb9-af74-b232502122ff",
+  "name": "TestALGo",
+  "publisher": "Alberto Gallen",
+  "version": "1.0.0.0",
+  "brief": "Test AL Go for GitHub",
+  "description": "Test AL Go for GitHub",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.11.0.0",
+  "application": "14.11.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://bc1411es/help/",
+  "showMyCode": true,
+  "runtime": "3.2"
+}
